@@ -1,6 +1,6 @@
-# Hack3RL
-ros2 Gazebo
+
 ## Objective
+### TurtleBot3 run toward its goal without colliding with obstacles,  using only reinforcement learning
 ![image](https://user-images.githubusercontent.com/101176694/226274046-596f9b72-9c73-4e59-aeb9-052a7e90db78.png)
 
 ## Turtlebot3
