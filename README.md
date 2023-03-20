@@ -15,10 +15,9 @@ Making TurtleBot3 run toward its goal without colliding with obstacles, using on
 
 ## Experiment
 - visualized result via TensorBoard and tuned model by changing/calculating observation (state in reinforcement learning) and reward functions.
+- example on slide page 14
 ![image](https://user-images.githubusercontent.com/101176694/226275942-c8c13e00-23c4-4db2-92df-cfe4e323a4f2.png)
 
-### The best state/reward functions that made our team won.
-- state
 
 
 ## slide
