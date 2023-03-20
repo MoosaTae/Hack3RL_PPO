@@ -1,9 +1,9 @@
 
 ## Objective
-### TurtleBot3 run toward its goal without colliding with obstacles,  using only reinforcement learning
+Making TurtleBot3 run toward its goal without colliding with obstacles, using only reinforcement learning
 ![image](https://user-images.githubusercontent.com/101176694/226274046-596f9b72-9c73-4e59-aeb9-052a7e90db78.png)
 
-## Turtlebot3
+## Turtlebot3 hardware
 ![image](https://user-images.githubusercontent.com/101176694/226275760-ed28d3cb-781a-480c-b628-85f20565ac28.png)
 
 ## Using PPO to solve this problem
