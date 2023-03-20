@@ -9,7 +9,7 @@ Making TurtleBot3 run toward its goal without colliding with obstacles, using on
 
 ## Implementation
 - We created a custom environment, using GYM(OpenAI) to connect with ROS2 Gazebo, which's robot operating system of TurtleBot3.
-- trained robot byProximal Policy Optimizer(PPO) model from Stable Baseline3.
+- trained robot by Proximal Policy Optimizer(PPO) model from Stable Baseline3.
 
 ![image](https://user-images.githubusercontent.com/101176694/226275888-59db9360-7304-4cef-b161-c65401bb7b0e.png)
 
