@@ -18,5 +18,5 @@ Making TurtleBot3 run toward its goal without colliding with obstacles, using on
 - visualized result via TensorBoard and tuned model by changing/calculating observation (state in reinforcement learning) and reward functions.
 ![image](https://user-images.githubusercontent.com/101176694/226275942-c8c13e00-23c4-4db2-92df-cfe4e323a4f2.png)
 
-## Credits
-[Machima Team](https://machchima.superai.me/team/)
+## Our team
+[Machima](https://machchima.superai.me/team/)
